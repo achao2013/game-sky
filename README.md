@@ -1,4 +1,4 @@
-#Game-Sky
+# Game-Sky
 
 This is a resource about game playing with reinforcement learning.
 
