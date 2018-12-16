@@ -1,4 +1,4 @@
-##Texas Hold em poker
+## Texas Hold em poker
 ### papers
   - deep reinforcement learning from self-play in imperfect-information games
   - Safe and Nested Endgame Solving for Imperfect-Information Games
