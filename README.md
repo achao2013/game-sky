@@ -34,7 +34,7 @@ include alpha go series
 ## newest papers(wait to reasign)
 ### NeurIPS 2018
 #### model-based
-	- Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion. [[paper]](https://arxiv.org/pdf/1807.01675.pdf)
+	- Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion. [[paper](https://arxiv.org/pdf/1807.01675.pdf)]
 	- data-efficient model-based reinforcement learning with deep probabilistic dynamics models. [[paper]](https://arxiv.org/pdf/1805.12114.pdf)
 #### undeterminded
     - differentiable mpc for end-to-end planning and control. [[paper]](https://arxiv.org/pdf/1810.13400.pdf)
