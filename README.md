@@ -20,10 +20,22 @@ It will be updated continuously, welcome to contribute to us!.
 
 ## counterfactual regret mimization(game theory)
 focus on texas hold'em and so on 
+
 [cfr](cfr.md)
 ### open source library
 [cppcfr](https://github.com/achao2013/cppcfr)
 
 ## deep reinforcement learning games
 include alpha go series
+
 [deep-rl](drl.md)
+
+
+## newest papers(wait to reasign)
+### NeurIPS 2018
+#### model-based
+	- [Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion](https://arxiv.org/pdf/1807.01675.pdf)
+	- [data-efficient model-based reinforcement learning with deep probabilistic dynamics models](https://arxiv.org/pdf/1805.12114.pdf)
+#### undeterminded
+    - [differentiable mpc for end-to-end planning and control](https://arxiv.org/pdf/1810.13400.pdf)
+	- [Playing hard exploration games by watching YouTube](https://arxiv.org/pdf/1805.11592.pdf)
