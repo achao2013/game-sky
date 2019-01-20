@@ -50,6 +50,16 @@ include alpha go series
   - Actor-Critic Policy Optimization in Partially Observable Multiagent Environments. [paper](https://arxiv.org/pdf/1810.09026.pdf)
   - Learning Temporal Point Processes via Reinforcement Learning. [paper](https://arxiv.org/pdf/1811.05016.pdf)
   - Memory Augmented Policy Optimization for Program Synthesis and Semantic Parsing. [paper](https://arxiv.org/pdf/1807.02322.pdf) [code](https://github.com/crazydonkey200/neural-symbolic-machines)
+#### Hierarchical
+  - Flexible Neural Representation for Physics Prediction. [paper](https://arxiv.org/pdf/1806.08047.pdf)
+  - Data-Efficient Hierarchical Reinforcement Learning. [paper](https://arxiv.org/pdf/1805.08296.pdf)
+  - Learning Abstract Options. [paper](https://arxiv.org/pdf/1810.11583.pdf)
+#### Intergrating learning and planing
+  - Dual Policy Iteration. [paper](https://arxiv.org/pdf/1805.10755.pdf)
+  - differentiable mpc for end-to-end planning and control. [paper](https://arxiv.org/pdf/1810.13400.pdf)
+  - Learning Plannable Representations with Causal InfoGAN. [paper](https://arxiv.org/pdf/1807.09341.pdf)
+#### Imitation rl
+  - Multi-Agent Generative Adversarial Imitation Learning. [paper](Multi-Agent Generative Adversarial Imitation Learning)
 #### Inverse reinforcement learning
   - an event-based framework for task specification and control. [paper](https://arxiv.org/pdf/1805.11686.pdf)
 #### exploration
@@ -58,6 +68,7 @@ include alpha go series
 #### CV related
   - Unsupervised Video Object Segmentation for Deep Reinforcement Learning. [paper](https://arxiv.org/pdf/1805.07780.pdf)
   - Hybrid Retrieval-Generation Reinforced Agent for Medical Image Report Generation. [paper](https://arxiv.org/pdf/1805.08298.pdf)
+  - Visual Reinforcement Learning with Imagined Goals. [paper](https://arxiv.org/pdf/1807.04742.pdf)
 #### meta-learning
   - Meta-Reinforcement Learning of Structured Exploration Strategies. [paper](https://arxiv.org/pdf/1802.07245.pdf)
   - Evolved Policy Gradients. [paper](https://arxiv.org/pdf/1802.04821.pdf)
@@ -71,9 +82,13 @@ include alpha go series
   - Human-in-the-Loop Interpretability Prior. [paper](https://arxiv.org/pdf/1805.11571.pdf)
   - Towards Robust Interpretability with Self-Explaining Neural Networks. [paper](https://arxiv.org/abs/1806.07538)
 #### undeterminded
-  - differentiable mpc for end-to-end planning and control. [paper](https://arxiv.org/pdf/1810.13400.pdf)
   - end-to-end differentiable physics for learning and control. [paper](https://papers.nips.cc/paper/7948-end-to-end-differentiable-physics-for-learning-and-control.pdf) [code](https://github.com/locuslab/lcp-physics)
   - Recurrent World Models Facilitate Policy Evolution. [paper](https://arxiv.org/pdf/1809.01999.pdf)
   - Learning to Play with Intrinsically-Motivated Self-Aware Agents. [paper](https://arxiv.org/pdf/1802.07442.pdf)
   - Reward learning from human preferences and demonstrations in Atari. [paper](https://arxiv.org/pdf/1811.06521.pdf)
   - DeepProbLog: Neural Probabilistic Logic Programming. [paper](https://arxiv.org/pdf/1805.10872.pdf)
+  - Scalable End-to-End Autonomous Vehicle Testing via Rare-event Simulation. [paper](https://arxiv.org/pdf/1811.00145.pdf)
+  - Relational recurrent neural networks. [paper](https://arxiv.org/pdf/1806.01822.pdf) [code](https://github.com/L0SG/relational-rnn-pytorch)
+  - How Does Batch Normalization Help Optimization? [paper](https://arxiv.org/pdf/1805.11604.pdf)
+  - Multi-Task Learning as Multi-Objective Optimization. [paper](https://arxiv.org/pdf/1810.04650.pdf)
+  - Randomized Prior Functions for Deep Reinforcement Learning. [paper](https://arxiv.org/pdf/1806.03335.pdf)
